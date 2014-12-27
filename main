@@ -1,2 +1,7 @@
+<header class="article-header">
 <h1 class="page-title" itemprop="headline">Wiki</h1>
+<p class="byline vcard></p>
+</header>
+<section class="entry-content clearfix" itemproper="articleBody">
 This is the main page
+</section>
